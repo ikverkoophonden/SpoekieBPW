@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: a980562991506dd4fae014ea2b3064bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1
+    100002: group10
+    100004: group11
+    100006: group12
+    100008: group13
+    100010: group14
+    100012: group15
+    100014: group2
+    100016: group2 1
+    100018: group2 2
+    100020: group2 3
+    100022: group2 4
+    100024: group2 5
+    100026: group2 6
+    100028: group3
+    100030: group3 1
+    100032: group3 2
+    100034: group3 3
+    100036: group3 4
+    100038: group3 5
+    100040: group3 6
+    100042: group4
+    100044: group4 1
+    100046: group4 2
+    100048: group4 3
+    100050: group4 4
+    100052: group4 5
+    100054: group4 6
+    100056: group5
+    100058: group5 1
+    100060: group5 2
+    100062: group5 3
+    100064: group5 4
+    100066: group5 5
+    100068: group5 6
+    100070: group6
+    100072: group6 1
+    100074: group6 2
+    100076: group6 3
+    100078: group6 4
+    100080: group6 5
+    100082: group6 6
+    100084: group7
+    100086: group7 1
+    100088: group7 2
+    100090: group7 3
+    100092: group7 4
+    100094: group7 5
+    100096: group7 6
+    100098: group8
+    100100: group8 1
+    100102: group8 2
+    100104: group8 3
+    100106: group8 4
+    100108: group8 5
+    100110: group8 6
+    100112: group9
+    100114: imagePlane1
+    100116: imagePlane1 1
+    100118: imagePlane1 2
+    100120: imagePlane1 3
+    100122: imagePlane1 4
+    100124: imagePlane1 5
+    100126: imagePlane1 6
+    100128: imagePlane10
+    100130: imagePlane10 1
+    100132: imagePlane10 10
+    100134: imagePlane10 11
+    100136: imagePlane10 12
+    100138: imagePlane10 13
+    100140: imagePlane10 2
+    100142: imagePlane10 3
+    100144: imagePlane10 4
+    100146: imagePlane10 5
+    100148: imagePlane10 6
+    100150: imagePlane10 7
+    100152: imagePlane10 8
+    100154: imagePlane10 9
+    100156: imagePlane11
+    100158: imagePlane11 1
+    100160: imagePlane11 10
+    100162: imagePlane11 11
+    100164: imagePlane11 12
+    100166: imagePlane11 13
+    100168: imagePlane11 2
+    100170: imagePlane11 3
+    100172: imagePlane11 4
+    100174: imagePlane11 5
+    100176: imagePlane11 6
+    100178: imagePlane11 7
+    100180: imagePlane11 8
+    100182: imagePlane11 9
+    100184: imagePlane12
+    100186: imagePlane12 1
+    100188: imagePlane12 2
+    100190: imagePlane12 3
+    100192: imagePlane12 4
+    100194: imagePlane12 5
+    100196: imagePlane12 6
+    100198: imagePlane13
+    100200: imagePlane13 1
+    100202: imagePlane13 2
+    100204: imagePlane13 3
+    100206: imagePlane13 4
+    100208: imagePlane13 5
+    100210: imagePlane13 6
+    100212: imagePlane14
+    100214: imagePlane14 1
+    100216: imagePlane14 2
+    100218: imagePlane14 3
+    100220: imagePlane14 4
+    100222: imagePlane14 5
+    100224: imagePlane14 6
+    100226: imagePlane17
+    100228: imagePlane17 1
+    100230: imagePlane17 2
+    100232: imagePlane17 3
+    100234: imagePlane17 4
+    100236: imagePlane17 5
+    100238: imagePlane17 6
+    100240: imagePlane2
+    100242: imagePlane2 1
+    100244: imagePlane2 2
+    100246: imagePlane2 3
+    100248: imagePlane2 4
+    100250: imagePlane2 5
+    100252: imagePlane2 6
+    100254: imagePlane20
+    100256: imagePlane20 1
+    100258: imagePlane20 2
+    100260: imagePlane20 3
+    100262: imagePlane20 4
+    100264: imagePlane20 5
+    100266: imagePlane20 6
+    100268: imagePlane21
+    100270: imagePlane21 1
+    100272: imagePlane21 2
+    100274: imagePlane21 3
+    100276: imagePlane21 4
+    100278: imagePlane21 5
+    100280: imagePlane21 6
+    100282: imagePlane22
+    100284: imagePlane22 1
+    100286: imagePlane22 2
+    100288: imagePlane22 3
+    100290: imagePlane22 4
+    100292: imagePlane22 5
+    100294: imagePlane22 6
+    100296: imagePlane23
+    100298: imagePlane23 1
+    100300: imagePlane23 2
+    100302: imagePlane23 3
+    100304: imagePlane23 4
+    100306: imagePlane23 5
+    100308: imagePlane23 6
+    100310: imagePlane24
+    100312: imagePlane24 1
+    100314: imagePlane24 2
+    100316: imagePlane24 3
+    100318: imagePlane24 4
+    100320: imagePlane24 5
+    100322: imagePlane24 6
+    100324: imagePlane25
+    100326: imagePlane25 1
+    100328: imagePlane25 2
+    100330: imagePlane25 3
+    100332: imagePlane25 4
+    100334: imagePlane25 5
+    100336: imagePlane25 6
+    100338: imagePlane26
+    100340: imagePlane26 1
+    100342: imagePlane26 2
+    100344: imagePlane26 3
+    100346: imagePlane26 4
+    100348: imagePlane26 5
+    100350: imagePlane26 6
+    100352: imagePlane28
+    100354: imagePlane28 1
+    100356: imagePlane28 2
+    100358: imagePlane28 3
+    100360: imagePlane28 4
+    100362: imagePlane28 5
+    100364: imagePlane28 6
+    100366: imagePlane29
+    100368: imagePlane29 1
+    100370: imagePlane29 2
+    100372: imagePlane29 3
+    100374: imagePlane29 4
+    100376: imagePlane29 5
+    100378: imagePlane29 6
+    100380: imagePlane3
+    100382: imagePlane3 1
+    100384: imagePlane3 2
+    100386: imagePlane3 3
+    100388: imagePlane3 4
+    100390: imagePlane3 5
+    100392: imagePlane3 6
+    100394: imagePlane30
+    100396: imagePlane30 1
+    100398: imagePlane30 2
+    100400: imagePlane30 3
+    100402: imagePlane30 4
+    100404: imagePlane30 5
+    100406: imagePlane30 6
+    100408: imagePlane31
+    100410: imagePlane31 1
+    100412: imagePlane31 2
+    100414: imagePlane31 3
+    100416: imagePlane31 4
+    100418: imagePlane31 5
+    100420: imagePlane31 6
+    100422: imagePlane4
+    100424: imagePlane4 1
+    100426: imagePlane4 2
+    100428: imagePlane4 3
+    100430: imagePlane4 4
+    100432: imagePlane4 5
+    100434: imagePlane4 6
+    100436: imagePlane5
+    100438: imagePlane5 1
+    100440: imagePlane5 2
+    100442: imagePlane5 3
+    100444: imagePlane5 4
+    100446: imagePlane5 5
+    100448: imagePlane5 6
+    100450: imagePlane6
+    100452: imagePlane6 1
+    100454: imagePlane6 2
+    100456: imagePlane6 3
+    100458: imagePlane6 4
+    100460: imagePlane6 5
+    100462: imagePlane6 6
+    100464: imagePlane7
+    100466: imagePlane7 1
+    100468: imagePlane7 2
+    100470: imagePlane7 3
+    100472: imagePlane7 4
+    100474: imagePlane7 5
+    100476: imagePlane7 6
+    100478: imagePlane8
+    100480: imagePlane8 1
+    100482: imagePlane8 10
+    100484: imagePlane8 11
+    100486: imagePlane8 12
+    100488: imagePlane8 13
+    100490: imagePlane8 2
+    100492: imagePlane8 3
+    100494: imagePlane8 4
+    100496: imagePlane8 5
+    100498: imagePlane8 6
+    100500: imagePlane8 7
+    100502: imagePlane8 8
+    100504: imagePlane8 9
+    100506: imagePlane9
+    100508: imagePlane9 1
+    100510: imagePlane9 10
+    100512: imagePlane9 11
+    100514: imagePlane9 12
+    100516: imagePlane9 13
+    100518: imagePlane9 2
+    100520: imagePlane9 3
+    100522: imagePlane9 4
+    100524: imagePlane9 5
+    100526: imagePlane9 6
+    100528: imagePlane9 7
+    100530: imagePlane9 8
+    100532: imagePlane9 9
+    100534: pCylinder1
+    100536: polySurface1
+    100538: polySurface1 1
+    100540: polySurface10
+    100542: polySurface11
+    100544: polySurface11 1
+    100546: polySurface12
+    100548: polySurface13
+    100550: polySurface13 1
+    100552: polySurface14
+    100554: polySurface15
+    100556: polySurface15 1
+    100558: polySurface16
+    100560: polySurface2
+    100562: polySurface3
+    100564: polySurface3 1
+    100566: polySurface4
+    100568: polySurface5
+    100570: polySurface5 1
+    100572: polySurface6
+    100574: polySurface7
+    100576: polySurface7 1
+    100578: polySurface8
+    100580: polySurface9
+    100582: polySurface9 1
+    100584: transform1
+    100586: transform10
+    100588: transform11
+    100590: transform12
+    100592: transform13
+    100594: transform14
+    100596: transform15
+    100598: transform16
+    100600: transform17
+    100602: transform18
+    100604: transform19
+    100606: transform2
+    100608: transform20
+    100610: transform21
+    100612: transform22
+    100614: transform23
+    100616: transform24
+    100618: transform3
+    100620: transform4
+    100622: transform5
+    100624: transform6
+    100626: transform7
+    100628: transform8
+    100630: transform9
+    100632: //RootNode
+    400000: group1
+    400002: group10
+    400004: group11
+    400006: group12
+    400008: group13
+    400010: group14
+    400012: group15
+    400014: group2
+    400016: group2 1
+    400018: group2 2
+    400020: group2 3
+    400022: group2 4
+    400024: group2 5
+    400026: group2 6
+    400028: group3
+    400030: group3 1
+    400032: group3 2
+    400034: group3 3
+    400036: group3 4
+    400038: group3 5
+    400040: group3 6
+    400042: group4
+    400044: group4 1
+    400046: group4 2
+    400048: group4 3
+    400050: group4 4
+    400052: group4 5
+    400054: group4 6
+    400056: group5
+    400058: group5 1
+    400060: group5 2
+    400062: group5 3
+    400064: group5 4
+    400066: group5 5
+    400068: group5 6
+    400070: group6
+    400072: group6 1
+    400074: group6 2
+    400076: group6 3
+    400078: group6 4
+    400080: group6 5
+    400082: group6 6
+    400084: group7
+    400086: group7 1
+    400088: group7 2
+    400090: group7 3
+    400092: group7 4
+    400094: group7 5
+    400096: group7 6
+    400098: group8
+    400100: group8 1
+    400102: group8 2
+    400104: group8 3
+    400106: group8 4
+    400108: group8 5
+    400110: group8 6
+    400112: group9
+    400114: imagePlane1
+    400116: imagePlane1 1
+    400118: imagePlane1 2
+    400120: imagePlane1 3
+    400122: imagePlane1 4
+    400124: imagePlane1 5
+    400126: imagePlane1 6
+    400128: imagePlane10
+    400130: imagePlane10 1
+    400132: imagePlane10 10
+    400134: imagePlane10 11
+    400136: imagePlane10 12
+    400138: imagePlane10 13
+    400140: imagePlane10 2
+    400142: imagePlane10 3
+    400144: imagePlane10 4
+    400146: imagePlane10 5
+    400148: imagePlane10 6
+    400150: imagePlane10 7
+    400152: imagePlane10 8
+    400154: imagePlane10 9
+    400156: imagePlane11
+    400158: imagePlane11 1
+    400160: imagePlane11 10
+    400162: imagePlane11 11
+    400164: imagePlane11 12
+    400166: imagePlane11 13
+    400168: imagePlane11 2
+    400170: imagePlane11 3
+    400172: imagePlane11 4
+    400174: imagePlane11 5
+    400176: imagePlane11 6
+    400178: imagePlane11 7
+    400180: imagePlane11 8
+    400182: imagePlane11 9
+    400184: imagePlane12
+    400186: imagePlane12 1
+    400188: imagePlane12 2
+    400190: imagePlane12 3
+    400192: imagePlane12 4
+    400194: imagePlane12 5
+    400196: imagePlane12 6
+    400198: imagePlane13
+    400200: imagePlane13 1
+    400202: imagePlane13 2
+    400204: imagePlane13 3
+    400206: imagePlane13 4
+    400208: imagePlane13 5
+    400210: imagePlane13 6
+    400212: imagePlane14
+    400214: imagePlane14 1
+    400216: imagePlane14 2
+    400218: imagePlane14 3
+    400220: imagePlane14 4
+    400222: imagePlane14 5
+    400224: imagePlane14 6
+    400226: imagePlane17
+    400228: imagePlane17 1
+    400230: imagePlane17 2
+    400232: imagePlane17 3
+    400234: imagePlane17 4
+    400236: imagePlane17 5
+    400238: imagePlane17 6
+    400240: imagePlane2
+    400242: imagePlane2 1
+    400244: imagePlane2 2
+    400246: imagePlane2 3
+    400248: imagePlane2 4
+    400250: imagePlane2 5
+    400252: imagePlane2 6
+    400254: imagePlane20
+    400256: imagePlane20 1
+    400258: imagePlane20 2
+    400260: imagePlane20 3
+    400262: imagePlane20 4
+    400264: imagePlane20 5
+    400266: imagePlane20 6
+    400268: imagePlane21
+    400270: imagePlane21 1
+    400272: imagePlane21 2
+    400274: imagePlane21 3
+    400276: imagePlane21 4
+    400278: imagePlane21 5
+    400280: imagePlane21 6
+    400282: imagePlane22
+    400284: imagePlane22 1
+    400286: imagePlane22 2
+    400288: imagePlane22 3
+    400290: imagePlane22 4
+    400292: imagePlane22 5
+    400294: imagePlane22 6
+    400296: imagePlane23
+    400298: imagePlane23 1
+    400300: imagePlane23 2
+    400302: imagePlane23 3
+    400304: imagePlane23 4
+    400306: imagePlane23 5
+    400308: imagePlane23 6
+    400310: imagePlane24
+    400312: imagePlane24 1
+    400314: imagePlane24 2
+    400316: imagePlane24 3
+    400318: imagePlane24 4
+    400320: imagePlane24 5
+    400322: imagePlane24 6
+    400324: imagePlane25
+    400326: imagePlane25 1
+    400328: imagePlane25 2
+    400330: imagePlane25 3
+    400332: imagePlane25 4
+    400334: imagePlane25 5
+    400336: imagePlane25 6
+    400338: imagePlane26
+    400340: imagePlane26 1
+    400342: imagePlane26 2
+    400344: imagePlane26 3
+    400346: imagePlane26 4
+    400348: imagePlane26 5
+    400350: imagePlane26 6
+    400352: imagePlane28
+    400354: imagePlane28 1
+    400356: imagePlane28 2
+    400358: imagePlane28 3
+    400360: imagePlane28 4
+    400362: imagePlane28 5
+    400364: imagePlane28 6
+    400366: imagePlane29
+    400368: imagePlane29 1
+    400370: imagePlane29 2
+    400372: imagePlane29 3
+    400374: imagePlane29 4
+    400376: imagePlane29 5
+    400378: imagePlane29 6
+    400380: imagePlane3
+    400382: imagePlane3 1
+    400384: imagePlane3 2
+    400386: imagePlane3 3
+    400388: imagePlane3 4
+    400390: imagePlane3 5
+    400392: imagePlane3 6
+    400394: imagePlane30
+    400396: imagePlane30 1
+    400398: imagePlane30 2
+    400400: imagePlane30 3
+    400402: imagePlane30 4
+    400404: imagePlane30 5
+    400406: imagePlane30 6
+    400408: imagePlane31
+    400410: imagePlane31 1
+    400412: imagePlane31 2
+    400414: imagePlane31 3
+    400416: imagePlane31 4
+    400418: imagePlane31 5
+    400420: imagePlane31 6
+    400422: imagePlane4
+    400424: imagePlane4 1
+    400426: imagePlane4 2
+    400428: imagePlane4 3
+    400430: imagePlane4 4
+    400432: imagePlane4 5
+    400434: imagePlane4 6
+    400436: imagePlane5
+    400438: imagePlane5 1
+    400440: imagePlane5 2
+    400442: imagePlane5 3
+    400444: imagePlane5 4
+    400446: imagePlane5 5
+    400448: imagePlane5 6
+    400450: imagePlane6
+    400452: imagePlane6 1
+    400454: imagePlane6 2
+    400456: imagePlane6 3
+    400458: imagePlane6 4
+    400460: imagePlane6 5
+    400462: imagePlane6 6
+    400464: imagePlane7
+    400466: imagePlane7 1
+    400468: imagePlane7 2
+    400470: imagePlane7 3
+    400472: imagePlane7 4
+    400474: imagePlane7 5
+    400476: imagePlane7 6
+    400478: imagePlane8
+    400480: imagePlane8 1
+    400482: imagePlane8 10
+    400484: imagePlane8 11
+    400486: imagePlane8 12
+    400488: imagePlane8 13
+    400490: imagePlane8 2
+    400492: imagePlane8 3
+    400494: imagePlane8 4
+    400496: imagePlane8 5
+    400498: imagePlane8 6
+    400500: imagePlane8 7
+    400502: imagePlane8 8
+    400504: imagePlane8 9
+    400506: imagePlane9
+    400508: imagePlane9 1
+    400510: imagePlane9 10
+    400512: imagePlane9 11
+    400514: imagePlane9 12
+    400516: imagePlane9 13
+    400518: imagePlane9 2
+    400520: imagePlane9 3
+    400522: imagePlane9 4
+    400524: imagePlane9 5
+    400526: imagePlane9 6
+    400528: imagePlane9 7
+    400530: imagePlane9 8
+    400532: imagePlane9 9
+    400534: pCylinder1
+    400536: polySurface1
+    400538: polySurface1 1
+    400540: polySurface10
+    400542: polySurface11
+    400544: polySurface11 1
+    400546: polySurface12
+    400548: polySurface13
+    400550: polySurface13 1
+    400552: polySurface14
+    400554: polySurface15
+    400556: polySurface15 1
+    400558: polySurface16
+    400560: polySurface2
+    400562: polySurface3
+    400564: polySurface3 1
+    400566: polySurface4
+    400568: polySurface5
+    400570: polySurface5 1
+    400572: polySurface6
+    400574: polySurface7
+    400576: polySurface7 1
+    400578: polySurface8
+    400580: polySurface9
+    400582: polySurface9 1
+    400584: transform1
+    400586: transform10
+    400588: transform11
+    400590: transform12
+    400592: transform13
+    400594: transform14
+    400596: transform15
+    400598: transform16
+    400600: transform17
+    400602: transform18
+    400604: transform19
+    400606: transform2
+    400608: transform20
+    400610: transform21
+    400612: transform22
+    400614: transform23
+    400616: transform24
+    400618: transform3
+    400620: transform4
+    400622: transform5
+    400624: transform6
+    400626: transform7
+    400628: transform8
+    400630: transform9
+    400632: //RootNode
+    2100000: lambert3
+    2300000: polySurface15
+    3300000: polySurface15
+    4300000: polySurface15
+    6400000: polySurface15
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 1e744d192d6d55541a7f60b2a469e117, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
